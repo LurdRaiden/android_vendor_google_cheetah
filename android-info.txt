@@ -1,0 +1,6 @@
+
+require version-baseband=g5300q-240308-240517-B-11857457
+require board=cloudripper|ravenclaw|cheetah|panther
+require partition-exists=vendor_kernel_boot
+
+require version-bootloader=cloudripper-14.5-12088398
